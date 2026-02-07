@@ -16,7 +16,7 @@
 
 ## Data Flow
 
-![Telegram Sequence Diagram](../../../docs/diagrams/out/telegram/component-diagram/Sequence%20Diagram.svg)
+![Telegram Sequence Diagram](diagrams/out/telegram/sequence-diagram/Sequence%20Diagram.svg)
 
 [Telegram Sequence Diagram](https://github.com/kkonstantin08/lab-01-market-product-and-git/blob/main/docs/diagrams/src/telegram/sequence-diagram.puml)
 
@@ -33,7 +33,7 @@
 
 ## Deployment
 
-![Telegram Deployment Diagram](../../../docs/diagrams/out/telegram/component-diagram/Deployment%20Diagram.svg)
+![Telegram Deployment Diagram](diagrams/out/telegram/deployment-diagram/Deployment%20Diagram.svg)
 
 [Telegram Deployment Diagram](https://github.com/kkonstantin08/lab-01-market-product-and-git/blob/main/docs/diagrams/src/telegram/deployment-diagram.puml)
 
