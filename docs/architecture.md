@@ -4,7 +4,7 @@
 - [Link](https://web.telegram.org/)
 - Telegram is a cloud-based instant messaging app focused on speed, security, and cross-platform availability. It offers end-to-end encrypted chats, large group support, and a powerful API for bots and custom integrations.
 
-![Telegram Component Diagram](docs\diagrams\out\telegram\component-diagram\Component%20Diagram.svg)
+![Telegram Component Diagram](diagrams\out\telegram\component-diagram\Component%20Diagram.svg)
 
 [Telegram Component Diagram](https://github.com/inno-se-toolkit/lab-01-market-product-and-git/blob/main/docs/diagrams/src/telegram/component-diagram.puml)
 
